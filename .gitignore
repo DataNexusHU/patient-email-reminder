@@ -1,0 +1,42 @@
+# Biztonságkritikus fájlok
+credentials.json
+token.json
+config.json
+encryption.key
+
+# Adatbázis fájlok
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache fájlok
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE fájlok
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operációs rendszer fájlok
+.DS_Store
+Thumbs.db
+
+# Log fájlok
+*.log
+
+# Backup fájlok
+*.bak
+*.backup
+
+# Temporary fájlok
+*.tmp
+*.temp
